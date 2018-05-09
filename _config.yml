@@ -87,6 +87,9 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "赵文亮的博客",
+        href: "http://blog.51cto.com/9098858"
+    },{
         title: "Hux Blog",
         href: "http://huangxuan.me"
     },{
